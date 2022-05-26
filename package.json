@@ -16,7 +16,7 @@
     "fstream": "^1.0.11",
     "print": "^1.2.0",
     "qs": "^6.10.3",
-    "slpjs": "^0.27.1",
+    "slpjs": "^0.27.11",
     "tinymce": "^6.0.3"
   },
   "devDependencies": {
