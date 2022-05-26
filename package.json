@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "commander": "^4.1.1",
-    "dns-sync": "^0.1.3",
+    "dns-sync": "^0.2.1",
     "dojox": "^1.12.3",
     "fstream": "^1.0.11",
     "print": "^1.1.0",
